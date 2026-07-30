@@ -12,6 +12,10 @@
   accept programming assignments over Git.
 </p>
 
+<p align="center">
+  <a href="https://git-grader.github.io"><strong>git-grader.github.io</strong></a>
+</p>
+
 ---
 
 ## How it works
