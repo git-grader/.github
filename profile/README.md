@@ -27,10 +27,11 @@
 
 | Repository | Purpose |
 |---|---|
+| [gitgrader](https://github.com/git-grader/gitgrader) | The platform: submission capture over SSH, isolated grading runners, course management |
 | [brand](https://github.com/git-grader/brand) | Brand system: logo masters, colour tokens, typography, guidelines |
 
-The platform repositories (`server`, `docs`, `runner-images`) are being
-prepared for publication.
+Additional repositories (`docs`, `runner-images`) are being prepared for
+publication.
 
 ## Contributing
 
